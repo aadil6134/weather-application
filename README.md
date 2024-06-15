@@ -10,7 +10,7 @@ This is a weather application built with React. It fetches weather data from the
 ## Setup Instructions
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/aadil6134/weather-application.git
 2. Navigate to the project directory.
     cd weather-app
 3. Install dependencies.
